@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aleyan-lenis
-- 👀 I’m interested in Data Science and Machine Learning, I want to get experience in these area.
+- 👀 I’m interested in backend development, I want to get experience in these area.
 - 🌱 I’m currently improved my skills in programming.
 - 💞️ I’m looking to collaborate on diferents projects
 - 📫 How to reach me ...
